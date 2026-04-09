@@ -1,6 +1,9 @@
 # Dimpho Coffee Shop Sales Analysis
 # Overview
-This report analyses the daily transactional dataset from Dimpho Coffee Shop. The aim is to support the new CEO in increasing revenue and optimizing product performance. The focus is on extracting actionable insights from historical data and provide a set of recommendations to support the  CEO in decision-making.
+This report analyses the daily transactional dataset from Dimpho Coffee Shop. 
+The aim is to support the new CEO in increasing revenue and optimizing product performance.T
+he focus is on extracting actionable insights from historical data and provide a set of recommendations 
+to support the  CEO in decision-making.
 # Objectives
 	Identify top revenue-generating products. 
 	Determine peak sales times during the day. 
@@ -11,7 +14,8 @@ This report analyses the daily transactional dataset from Dimpho Coffee Shop. Th
 	Excel: Pivot tables, charts, and visual analysis
 	PowerPoint: CEO presentation
  # Miro: Data flow and architecture planning
- Miro was used to map the data flow, from source to storage, including ETL processes, key calculations, and insights, providing a clear visual blueprint of the data pipeline and analytics plan.
+ Miro was used to map the data flow, from source to storage, including ETL processes, 
+ key calculations, and insights, providing a clear visual blueprint of the data pipeline and analytics plan.
 # Data Processing as Summarised:
 	Received Excel data, converted to CSV, and loaded into Databricks. 
 	Performed data cleaning and transformations, including correcting entries and computing total amounts. 
@@ -68,7 +72,10 @@ Customer Behaviour
 	Monitor real-time dashboards and display at strategic areas to encourage staff
 	Track customer trends and preferences 
 # Daily Performance dashboard 
-The dashboard was designed using Microsoft Excel to ensure clarity and usability. Key performance indicators (KPIs) are displayed using charts and summary cards, allowing stakeholders to view daily performance. The visual elements included bar charts, line graphs, and pie charts.  This was used to enhance the ability to identify trends, customer behavioural patterns, and product performance.
+The dashboard was designed using Microsoft Excel to ensure clarity and usability. 
+Key performance indicators (KPIs) are displayed using charts and summary cards, 
+allowing stakeholders to view daily performance. The visual elements included bar charts, line graphs, and pie charts. 
+This was used to enhance the ability to identify trends, customer behavioural patterns, and product performance.
  # Dashboard Key Performance Indicators:
 	Total Revenue per product category
 	Peak time interval for sale
